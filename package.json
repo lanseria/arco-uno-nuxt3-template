@@ -24,6 +24,7 @@
     "@unocss/nuxt": "^0.59.1",
     "@vite-pwa/nuxt": "^0.6.0",
     "@vueuse/nuxt": "^10.9.0",
+    "arco-design-nuxt-module": "^0.1.0",
     "consola": "^3.2.3",
     "eslint": "^9.0.0",
     "eslint-plugin-format": "^0.1.0",
